@@ -1,0 +1,24 @@
+_repo: A-Tramp-Through-the-Bret-Harte-Country_4636
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beasley, T. D. (Thomas Dykes)
+    alias: Beasley, Thomas Dykes
+    gutenberg_agent_id: '1521'
+    url: http://www.gutenberg.org/2009/agents/1521
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Description and travel'
+- !lcsh 'Harte, Bret, 1836-1902'
+- !lcc 'F850.5'
+- GITenberg
+title: A Tramp Through the Bret Harte Country
+url: http://www.gutenberg.org/ebooks/4636
